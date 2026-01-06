@@ -1,5 +1,9 @@
 # Data Scientist
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cdtm15)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tobarov/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tobarovc/)  
+
 #### Technical Skills: Python, SQL, R, MATLAB, Azure Cloud, Databricks
 
 ## Education
@@ -85,7 +89,7 @@ PetriRAM is a Python framework that uses stochastic Petri nets and Monte Carlo s
 ### CanSat Descent Modeling for Physics Education
 Physics-based Python simulator to model CanSat descent under varying wind conditions, enabling visualization of trajectories, landing dispersion, and control efficiency for educational purposes.
 
-![Project View](/assets/7_cansat.png)
+![Project View](/assets/7_cansat.jpeg)
 
 [See GitHub Project](https://github.com/cdtm15/cansat_modeling.git)
 
