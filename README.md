@@ -1,12 +1,16 @@
-# Machine Learning Data Scientist
+# Data Scientist
 
 #### Technical Skills: Python, SQL, R, MATLAB, Azure Cloud, Databricks
 
 ## Education
-
-- Ph.D., in Electronic Sciences | University of Cauca (_2026*_)								       		
+- Ph.D., in Electronic Sciences | University of Cauca (_2026_)								       		
 - M.S., Automatics | University of Cauca (_March 2023_)	 			        		
 - B.S., Industrial Automation | University of Cauca (_March 2019_)
+
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
 
@@ -31,10 +35,37 @@ I create educational science content on TikTok, explaining scientific papers and
 
 ![Most viral video](/assets/comm-project.png)
 
-
 ## Data Science Projects
-One project
+### Azure Based Data Analysis for Sales and Revenues for a B2B Hardware company
+[See GitHub project](https://github.com/cdtm15/azure-brazil-repository.git)
 
+End-to-end cloud analytics solution built on Microsoft Azure to transform raw B2B sales data into executive insights. The project automates data ingestion, processing, and visualization using Azure Blob Storage, Data Factory, Databricks, and Power BI. It answers key business questions on revenue trends, client profitability, product performance, sales effectiveness, and win/loss dynamics, enabling management to identify growth opportunities, focus on high-impact clients and sectors, and improve commercial strategy through data-driven decisions.
 
-## Publications
+![Dashboard View]()
+
+### Fuzzy‑logic delivery date estimation framework for the Task Manager and Scheduling RYKWA platform
+[Publication](https://doi.org/10.1080/15578771.2025.2590062)
+[Go to RYKWA](https://creaticrykwa.com)
+
+This project introduces an uncertainty visualization framework for project scheduling using fuzzy logic. Task completion uncertainty is modeled with triangular membership functions and transformed into an intuitive dashboard-style vector representation, enabling real-time decision-making. The approach supports both industry applications and educational use by helping users understand and manage uncertainty dynamically.
+
+### Petri Net–Based Features for Neurodegenerative Disease Screening
+[Publication](https://iopscience.iop.org/article/10.1088/2057-1976/ac8c9a)
+This project proposes Petri net–based gait features for neurodegenerative disease screening, achieving high accuracy with Random Forests and highlighting the trade-off between performance and interpretability using classification trees.
+
+### Data Intelligence Framework for Cost Estimation Under Uncertainty
+[See Github Project](https://github.com/cdtm15/construction_project_cost_prediction_epistemic_uncertainty.git)
+This project implements a data intelligence framework for construction cost estimation under market uncertainty of residential condos. It combines clustering, explainable ML (SHAP), and incremental sensitivity analysis to identify the minimal set of economic variables required for stable and reliable cost predictions, supporting robust business decision-making.
+
+### Uncertainty Analysis through Machine Learning in Colombian Construction MSMEs
+[See GitHub Project](https://github.com/cdtm15/uncertainty_sources_in_construction_colombia.git)
+Machine learning–based analysis of uncertainty sources in Colombian construction MSMEs, using bootstrapped Random Forests and interpretable decision rules to identify early warning signals for rising project uncertainty.
+
+### PetriRAM: A Petri Net–Based Simulation Framework for RAM Analysis
+[See GitHub Project](https://github.com/cdtm15/petriRAM_simulator.git)
+PetriRAM is a Python framework that uses stochastic Petri nets and Monte Carlo simulation to analyze reliability, availability, and maintainability, enabling reproducible RAM studies for complex multi-component systems.
+
+### CanSat Descent Modeling for Physics Education
+[See GitHub Project](https://github.com/cdtm15/cansat_modeling.git)
+Physics-based Python simulator to model CanSat descent under varying wind conditions, enabling visualization of trajectories, landing dispersion, and control efficiency for educational purposes.
 
