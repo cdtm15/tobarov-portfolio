@@ -4,15 +4,9 @@
 
 ## Education
 
-- Ph.D., in Electronic Sciences, University of Cauca (_2026_)								       		
-- M.S., Automatics, University of Cauca (_March 2023_)	 			        		
-- B.S., Industrial Automation,  University of Cauca (_March 2019_)
-
-### Education
-
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D. in Electronic Sciences, University of Cauca (_2026_)								       		
+- M.S. Automatics, University of Cauca (_March 2023_)	 			        		
+- B.S. Industrial Automation,  University of Cauca (_March 2019_)
 
 ## Work Experience
 
