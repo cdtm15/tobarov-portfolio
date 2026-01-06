@@ -2,11 +2,11 @@
 
 #### Technical Skills: Python, SQL, R, MATLAB, Azure Cloud, Databricks
 
-### Education
+## Education
 
-- Ph.D., in Electronic Sciences | University of Cauca (_2026_)								       		
-- M.S., Automatics | University of Cauca (_March 2023_)	 			        		
-- B.S., Industrial Automation | University of Cauca (_March 2019_)
+- Ph.D., in Electronic Sciences, University of Cauca (_2026_)								       		
+- M.S., Automatics, University of Cauca (_March 2023_)	 			        		
+- B.S., Industrial Automation,  University of Cauca (_March 2019_)
 
 ### Education
 
