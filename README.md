@@ -4,6 +4,7 @@
 
 #### CV Download
 CV (English) [Click here]()
+
 CV (Spanish) [Click here]()
 
 #### Technical Skills: Python, SQL, R, MATLAB, Azure Cloud, Databricks
