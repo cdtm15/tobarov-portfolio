@@ -3,9 +3,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cdtm15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tobarov/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tobarovc/)  
 
 #### CV Download
-CV (English) [Click here]()
+CV (English) [Click here](https://unicaucaeduco-my.sharepoint.com/:b:/g/personal/cristiantobar_unicauca_edu_co/IQAOmeiGXYJBSoX2iFx-IVCdATJP4h6y5StYesQKi1YjVaE?e=Fgum2F)
 
-CV (Spanish) [Click here]()
+CV (Spanish) [Click here](https://unicaucaeduco-my.sharepoint.com/:b:/g/personal/cristiantobar_unicauca_edu_co/IQDCJZMV0LCkRYAj9YG5ZGRkAcDide-d5e79iKeIci4rItc?e=Cw0B3H)
 
 #### Technical Skills: Python, SQL, R, MATLAB, Azure Cloud, Databricks
 
