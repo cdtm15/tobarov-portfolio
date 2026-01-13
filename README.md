@@ -46,7 +46,7 @@ I create educational science content on TikTok, explaining scientific papers and
 ### Uncertainty-Aware Prediction of Construction Activity Durations using Machine Learning
 This project explores how machine learning and artificial intelligence can support more reliable planning in residential construction. By combining semantic representations of construction activities, macroeconomic context, and uncertainty-aware models, the pipeline estimates activity durations while explicitly accounting for variability and risk. The approach is designed to be both research-driven and practical, helping engineers and decision-makers understand not only what is predicted, but why and under which conditions predictions become reliable.
 
-![planning](/assets/duration_planning.png)
+![planning](/assets/duration_planning-2.png)
 
 [See GitHub project](https://github.com/cdtm15/project-activity-duration-prediction.git)
 
