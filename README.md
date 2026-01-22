@@ -7,7 +7,7 @@
 #### CV Download
 - English [Click here](https://unicaucaeduco-my.sharepoint.com/:b:/g/personal/cristiantobar_unicauca_edu_co/IQDz3a2ZBnFkSppGHXTwP_GBAfHh0JMbhcqdaXI-obhmODI?e=WG6qtT)
 
-- Spanish [Click here](https://unicaucaeduco-my.sharepoint.com/:b:/g/personal/cristiantobar_unicauca_edu_co/IQDCJZMV0LCkRYAj9YG5ZGRkAcDide-d5e79iKeIci4rItc?e=Cw0B3H)
+- Spanish [Click here](https://unicaucaeduco-my.sharepoint.com/:b:/g/personal/cristiantobar_unicauca_edu_co/IQCQCcjXNT6oSruXLSQj62uIAc_ScTr8hENueOj6jSt54OI?e=HLwBSX)
 
 #### Technical Skills: Python, SQL, R, MATLAB, Azure Cloud, Databricks
 
