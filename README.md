@@ -40,9 +40,22 @@ I create educational science content on TikTok, explaining scientific papers and
 
 ![Most viral video](/assets/comm-project.png)
 
-[Go to TikTok](https://www.tiktok.com/@tobarifico)
+[Go to TikTok](https://www.tiktok.com/@tobarifico/video/7460876566667463942)
 
-## Data Science Projects
+## Data Science and ML/Gen AI Projects
+
+### PaperPal Research Chatbot
+AI-powered research assistant that allows users to chat with scientific papers, instantly extracting insights, comparing methods, and accelerating literature reviews using a Retrieval-Augmented Generation (RAG) pipeline built with LangChain and OpenAI.
+
+![paperpal](/assets/paperpal.jpg)
+[See GitHub project](https://github.com/cdtm15/PaperPal_RAG_Chatbot.git)
+
+### Demand Entry Forecasting with MLOps on Databricks
+Production-ready machine learning system that predicts daily visitor demand to support smarter staffing, inventory planning, and operational decision-making, built with Databricks, MLflow, and XGBoost following modern MLOps practices.
+
+![forecasting](/assets/demand_forecasting.jpg)
+[See GitHub project](https://github.com/cdtm15/demand-entry-forecasting.git)
+
 ### Uncertainty-Aware Prediction of Construction Activity Durations using Machine Learning
 This project explores how machine learning and artificial intelligence can support more reliable planning in residential construction. By combining semantic representations of construction activities, macroeconomic context, and uncertainty-aware models, the pipeline estimates activity durations while explicitly accounting for variability and risk. The approach is designed to be both research-driven and practical, helping engineers and decision-makers understand not only what is predicted, but why and under which conditions predictions become reliable.
 
