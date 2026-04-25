@@ -29,13 +29,6 @@
 **Research Assistant @ University of Strathclyde (_November 2022 - December 2022_)**
 - Analyzed 90K time series of vertical ground reaction force signals from gait recordings of 64 patients with ALS, HD, and PD, achieving 91% accuracy in differential diagnosis and early detection of neurodegenerative diseases to support clinical decision-making and model dissemination.
 
-## Science Communication Project
-I create educational science content on TikTok, explaining scientific papers and patents in Spanish. One of my most viewed videos (+40K views) on nuclear power plant location in Colombia sparked public discussion on safety, policy, and community guarantees, demonstrating my ability to communicate complex topics with real societal impact.
-
-![Most viral video](/assets/comm-project.png)
-
-[Go to TikTok](https://www.tiktok.com/@tobarifico/video/7460876566667463942)
-
 ## Data Science and ML/Gen AI Projects
 
 ### PaperPal Research Chatbot
@@ -112,4 +105,9 @@ Physics-based Python simulator to model CanSat descent under varying wind condit
 
 [See GitHub Project](https://github.com/cdtm15/cansat_modeling.git)
 
+## Science Communication Project
+I create educational science content on TikTok, explaining scientific papers and patents in Spanish. One of my most viewed videos (+40K views) on nuclear power plant location in Colombia sparked public discussion on safety, policy, and community guarantees, demonstrating my ability to communicate complex topics with real societal impact.
 
+![Most viral video](/assets/comm-project.png)
+
+[Go to TikTok](https://www.tiktok.com/@tobarifico/video/7460876566667463942)
